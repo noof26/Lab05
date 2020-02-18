@@ -1,0 +1,22 @@
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.value {
+  width: 50%;
+  text-align: center;
+  padding: 1em;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+fieldset {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+
+input[type="date"] {
+  background-color: green;
+
+}
